@@ -34,7 +34,7 @@ The project follows WCAG 2.2 guidelines, ensuring an inclusive user experience a
 ### Configuration Steps
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/CorsaIdeale.git
+   git clone https://github.com/EddyPinarello/CorsaIdeale.git
    ```
 2. Import the database schema from `database.sql`
 3. Configure the database connection in `DbConnection.php`
